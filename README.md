@@ -1,16 +1,7 @@
-# chess
+# CHESS ♥ FLUTTER
 
-A new Flutter project.
+C R E A T E D B Y K O K O
 
-## Getting Started
+https://www.youtube.com/mitchkoko
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screen Shot 2021-07-28 at 12 52 51 pm](https://user-images.githubusercontent.com/29016489/127256129-c3342e53-a139-4d7a-9540-ad3ee317fe2c.png)
